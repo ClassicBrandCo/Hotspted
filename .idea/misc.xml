@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="StoredSessionsInfoStore">
+    <option name="sessions">
+      <list>
+        <SessionInfoState>
+          <option name="id" value="20260405-085522-21670f66-c618-4189-aef1-eabee9069aab" />
+          <option name="lastUpdateTimestamp" value="1775368522644" />
+          <option name="responseMode" value="Agent" />
+          <option name="title" value="New Agent Session" />
+          <option name="user" value="guest" />
+        </SessionInfoState>
+        <SessionInfoState>
+          <option name="id" value="20260405-085522-664f9cf3-f957-4396-b822-fdc1ba33d461" />
+          <option name="lastUpdateTimestamp" value="1775368522782" />
+          <option name="responseMode" value="Agent" />
+          <option name="title" value="New Agent Session" />
+          <option name="user" value="classicbrandco@gmail.com" />
+        </SessionInfoState>
+      </list>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="MARK_IGNORED_AS_EXCLUDED" value="true" />
+  </component>
+</project>
