@@ -1,3 +1,13 @@
-const { getDefaultConfig } = require('expo/metro-config');
+const {getDefaultConfig} = require('expo/metro-config');
 
-module.exports = getDefaultConfig(__dirname);
+/**
+ * Metro configuration
+ * https://facebook.github.io/metro/docs/configuration
+ *
+ * @type {import('metro-config').MetroConfig}
+ */
+const config = getDefaultConfig(__dirname);
+
+config.resolver.resolverMainFields = ['sbp', 'expo-runtime-web', 'react-native', 'browser', 'main'];
+
+module.exports = config;
